@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <corbanda>FFFFFF</corbanda>
+        <cornavega>FF8000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <autor>HERMES BERNAL, RENE BERNAL, LEYCY JIMÉNEZ</autor>
+        <logo>LOGO_UUUUU_21.jpg</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Muy Bien</correcto>
+        <incorrecto son="" modo="1" >Sigue Intentando</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="15" posy="6">portada_2.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="42" posy="29">VIDEO_INICIO_free_(1).mp4</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>15</tipo>
+              <cfondo>008000</cfondo>
+              <ctexto>FFFF00</ctexto>
+              <menu boton="LITRO"><![CDATA[
+<p align="left">
+<font color="#0000A0" face="Comic" size="24"><b>Objetivos</b><br>
+<br>
+<b>1. Establecer medidas de capacidad haciendo uso de la unidad patrón litro sus Múltiplos y Submúltiplos.</b><br>
+</font><font color="#002060" face="Comic Sans MS" size="28">El litro es la unidad patrón de las medidas de capacidad, su símbolo es <b>l</b> (la letra l) y se usa para calcular cualquier cantidad de líquido que hay en un recipiente.<br>
+<br>
+<b>¿Sabes para qué utilizamos el litro?</b><br>
+Si queremos medir el líquido que se encuentra dentro de un envase o recipiente, no podemos usar una regla o el metro, utilizamos la medida de capacidad llamada <b>litro</b>.<br>
+ <br>
+<b>Pertenecen  a esta familia</b><br>
+- EL <b>MILILITRO </b>(ML), QUE SE USA PARA MEDIR <b>PEQUEÑAS CANTIDADES DE LÍQUIDOS</b>. <br>
+- El <b>hectolitro</b> (hl), que se usa para medir <b>grandes cantidades de líquidos</b>.<br>
+<br>
+<b>Ejemplos de uso</b><br>
+- Para saber la cantidad de jugo que tiene una botella (litro).<br>
+- Para saber cuánto aceite debe tener nuestra ensalada (mililitro).<br>
+- Para conocer la cantidad de agua que necesita una piscina (hectolitro).<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="MÚLTIPLOS DE LITRO "><![CDATA[
+<p align="center">
+<font color="#0000A0" face="Comic" size="28"><b>MÚLTIPLOS DEL LITRO</b><br>
+<b>De forma similar a las unidades de volumen, también tenemos unidades de medida para la capacidad. Anteriormente encontrábamos que las unidades de volumen de una unidad a otra consecutiva tenían una equivalencia: 1.000 veces la anterior.</b><br>
+<b>En este caso, las unidades de capacidad mantienen una</b><br>
+<b>equivalencia: cada unidad es 10 veces menor que su unidad inmediata superior.</b><br>
+</font></p>
+<p align="left">
+<font color="#0000A0" face="Comic" size="28"><b>Ejemplo 1:</b><br>
+<b>Para saber a cuantos litros equivalen 8 mililitros realizamos:</b><br>
+<b>Tenemos que dividir tres veces por 10 porque debemos subir</b><br>
+<b>tres espacios.</b><br>
+<b>8 𝑚𝑙 ÷ 10 = 0,8 𝑐𝑙</b><br>
+<b>0,8 𝑐𝑙 ÷ 10 = 0,08 𝑑𝑙</b><br>
+<b>0,08 𝑑𝑙 ÷ 10 = 0,008  </b><br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="SUBMÚLTIPLOS DE L"><![CDATA[
+<p align="center">
+<font color="#0000A0" face="Arial" size="24"><b>S</b></font><font color="#0000A0" face="Comic" size="24"><b>UBMÚLTIPLOS DEL LITRO</b><br>
+<br>
+</font><font color="#0000A0" face="Comic" size="28">Son éstos:<br>
+<br>
+   1 decilitro es igual a 0,1 litro: 1 dl = 0,1 l. 1 litro tiene 10 decilitros.<br>
+   1 centilitro es igual a 0,01 litro: 1 cl = 0,01 l. El litro tiene 100 centilitros.<br>
+   1 mililitro es igual a 0,001 litro: 1 ml = 0,001 l. El litro tiene 1.000 mililitros.<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="BIBLIOGRAFÍA "><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Comic" size="20"><br>
+<b>Descartes. (2005). Capacidad. Obtenido de http://recursostic.educacion.es/descartes/web/materiales_didacticos/smd/litro.htm</b><br>
+<br>
+<b>Gab Gaut. (mayo de 2020). EL LITRO, MÚLTIPLOS Y SUBMÚLTIPLOS PARA NIÑOS. </b><br>
+<b>Obtenido de https://www.youtube.com/watch?v=hYQD42o0RaM</b><br>
+<br>
+<b>Innoveduca.com. (2013). unidades de medida, capacidad. Obtenido de http://www.innoveduca.com/files/propis/mates_unidadmedida/44_conversin_de_unidades.html</b><br>
+<br>
+<b>submúltiplos del gramo. Obtenido de https://www.youtube.com/watch?v=Qyh7QyUAKoU&amp;amp;amp;amp;amp;amp;amp;t=126s</b><br>
+<b>Superpof. (Sf). Qué significa los multiplos del gramo. Obtenido de https://www.superprof.es/diccionario/matematicas/aritmetica/multipos-gramo.html</b><br>
+<br>
+<b>https://milactividades.com/2016/04/15/multiplos-y-submultiplos-del-litro/ </b><br>
+<br>
+<b>https://es.liveworksheets.com/worksheets/es/Matem%C3%A1ticas/Medidas_de_capacidad/Subm%C3%BAltiplos_del_litro_fn1707377xk</b><br>
+<b> </b><br>
+<b>https://www.edufichas.com/wp-content/uploads/2020/07/fichas-unidades-capacidad.png </b><br>
+<br>
+<b>Profa. Kempis. (7 de mayo de 2021). Medidas de peso: Conversiones de múltiplos y submúltiplos del gramo. Obtenido de https://www.youtube.com/watch?v=Qyh7QyUAKoU&amp;amp;amp;amp;amp;t=126s</b><br>
+<b>Superpof. (Sf). Qué significa los multiplos del gramo. Obtenido de https://www.superprof.es/diccionario/matematicas/aritmetica/multipos-gramo.html</b></font><font color="#0000FF" face="SimSun" size="20"><b>https://www.fichasdematematicas.com/unidades-de-medida/</b><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="  "><![CDATA[
+<p align="center">
+<font color="#0000A0" face="Comic Sans MS" size="24"><b>SUBMÚLTIPLOS DEL GRAMO</b><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>38</tipo>
+              <cabeceira>El litro, sus múltiplos y submúltiplos.</cabeceira>
+              <imaxe>Image_5.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000080" face="Comic" size="28"><b>Énfasis: </b><br>
+</font><font color="#000080" face="Comic" size="24"><b>Resolver problemas que implican conversiones en múltiplos y submúltiplos del litro.</b><br>
+<br>
+</font><font color="#000080" face="Comic" size="28"><b>¿Qué vamos a aprender?</b><br>
+<br>
+</font><font color="#000080" face="Comic" size="24"><b>Analizarás la resolución de problemas que impliquen conversiones en múltiplos y submúltiplos del litro.</b><br>
+<b>La comprensión de los múltiplos y submúltiplos de la unidad de capacidad conocida como litro, es un proceso que requiere de tu participación activa. Al comprender un procedimiento, también se construye un significado, en este caso, el significado de las equivalencias entre las medidas de capacidad.</b><br>
+<br>
+<b>Para lograr la comprensión de los procedimientos y significados, es necesario realizar actividades que te ayuden a comprender las conversiones entre los múltiplos y submúltiplos del litro; también se requiere proponer diferentes maneras para calcular las equivalencias de las unidades de capacidad.</b><br>
+<br>
+<b>En esta sesión, examinarás casos específicos para llegar a la generalización que constituyen las equivalencias de capacidad. De esta manera, podrás aplicar el procedimiento adecuado para llegar al resultado correcto.</b><br>
+<br>
+</font><font color="#000080" face="Comic" size="28"><b>¿Qué hacemos?</b><br>
+<br>
+</font><font color="#000080" face="Comic" size="24"><b>Reflexiona a partir de las siguientes preguntas, mismas que puedes registrar en tu cuaderno e ir respondiendo a lo largo de la sesión.</b><br>
+</font><font color="#000080" face="Comic" size="28"><b>¿A cuánto equivale un decímetro cúbico?</b><br>
+<b>¿Qué se hace cuando se tienen litros y debes convertirlos a decalitros?</b><br>
+<b>¿Qué procedimiento debes realizar para convertir kilolitros a mililitros?</b><br>
+</font><font color="#000080" face="Comic" size="24"><b>Estas preguntas te orientarán y te servirán de guía a lo largo de la sesión.</b><br>
+<br>
+</font><font color="#000080" face="Comic" size="28"><b>Ahora, analiza las unidades de capacidad.</b><br>
+<br>
+</font><font color="#000080" face="Comic" size="24"><b>Múltiplos y submúltiplos de las unidades de capacidad</b><br>
+<br>
+<b>La unidad más común para medir la cantidad de líquido que contiene un cuerpo es el litro y se denota con el símbolo L. Esta unidad no pertenece al Sistema Internacional de Unidades.</b><br>
+<br>
+<b>Cuando se mide un objeto de tres dimensiones, también se usa el decímetro cúbico, dm3 , que equivale a 1 litro.</b><br>
+<br>
+</font><font color="#000080" face="Comic" size="32"><b>1 dm3 = 1 litro  </b><br>
+</font><font color="#000080" face="Comic" size="24"><b>Los primeros tres múltiplos del litro son decalitro, hectolitro y kilolitro.</b><br>
+<b>Los primeros submúltiplos de un litro son decilitro, centilitro y mililitro.</b><br>
+<br>
+<b>Observa la siguiente tabla.</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="5" >
+              <tipo>38</tipo>
+              <imaxe>multiplos_L.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#000080" face="Comic" size="28"><b>MÚLTIPLOS DEL LITRO</b><br>
+<br>
+</font></p>
+<p align="left">
+<font color="#0000FF" face="Comic" size="24"><b>La serie completa de unidades de capacidad se forma de la misma manera que las de longitud.</b><br>
+<b>El símbolo de litro es la letra l , los demás símbolos son los indicados en esta tabla, debes ponerlos como están aquí, con letra minúscula, sin punto y sin añadir s aunque sea en plural.</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <cabeceira>Observa el siguiente video y realiza las actividades siguientes.</cabeceira>
+              <imaxe posx="0" posy="0">x2mate.com-EL_LITRO,_M_ULTIPLOS_Y_SUBM_ULTIPLOS_PARA_NINNOS.mp4</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>3</tipo>
+              <cabeceira>Arma el Siguiente Rompecabezas.</cabeceira>
+              <imaxe>LITRO_RONPECABEZA.jpg</imaxe>
+              <imfondo  trans="100">LITRO_RONPECABEZA.jpg</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>20</tipo>
+              <cabeceira>Elige el símbolo para cada escalón y arrastra la etiqueta que correspondiente.</cabeceira>
+              <imaxe>ESCALERA_MUL_L.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="5" posy="46">kl</etiqueta>
+              <etiqueta posx="77" posy="91">hl</etiqueta>
+              <etiqueta posx="141" posy="133">dal</etiqueta>
+              <etiqueta posx="218" posy="159">I</etiqueta>
+              <etiqueta posx="272" posy="212">dl</etiqueta>
+              <etiqueta posx="338" posy="257">cl</etiqueta>
+        </paxina>
+        <paxina id="9" >
+              <tipo>20</tipo>
+              <cabeceira>Convierte las siguientes unidades.</cabeceira>
+              <imaxe>23.jpg</imaxe>
+              <modo>9</modo>
+              <etiqueta posx="199" posy="19">2300</etiqueta>
+              <etiqueta posx="195" posy="70">94</etiqueta>
+              <etiqueta posx="198" posy="121">55</etiqueta>
+              <etiqueta posx="200" posy="169">9</etiqueta>
+              <etiqueta posx="200" posy="219">6000</etiqueta>
+              <etiqueta posx="200" posy="267">12</etiqueta>
+        </paxina>
+        <paxina id="10" >
+              <tipo>46</tipo>
+              <cabeceira>Relaciona el significado con su concepto según corresponda.</cabeceira>
+              <etiqueta texto="decalitro, hectolitro y kilolitro."  posy="1">Los primeros tres múltiplos del litro son</etiqueta>
+              <etiqueta texto="El litro"  posy="2">La unidad más común para medir la cantidad de líquido que contiene un cuerpo es</etiqueta>
+              <etiqueta texto="L"  posy="3">El litro se representa con el símbolo</etiqueta>
+              <etiqueta texto="1000 mililitros"  posy="4">Un litro es igual a</etiqueta>
+              <etiqueta texto="100 litros"  posy="5">1 hectolitro  equivale a</etiqueta>
+        </paxina>
+        <paxina id="11" >
+              <tipo>4</tipo>
+              <cabeceira>Busca en la sopa de letras las siguientes palabras: MEDIDA, CAPACIDAD, KILOLITRO, MULTIPLOS, HECTOLITRO, DECALITRO, CENTILITRO, LITRO.</cabeceira>
+              <modo>1</modo>
+              <sopa enun="EL MILILITRO (ML), QUE SE USA PARA MEDIR">MEDIDA</sopa>
+              <sopa enun="EL MILILITRO (ML), QUE SE USA PARA MEDIR">CAPACIDAD</sopa>
+              <sopa enun="EL MILILITRO (ML), QUE SE USA PARA MEDIR">KILOLITRO</sopa>
+              <sopa enun="EL MILILITRO (ML), QUE SE USA PARA MEDIR">MULTIPLOS</sopa>
+              <sopa enun="EL MILILITRO (ML), QUE SE USA PARA MEDIR">DECALITRO</sopa>
+              <sopa enun="EL MILILITRO (ML), QUE SE USA PARA MEDIR">HECTOLITRO</sopa>
+              <sopa enun="EL MILILITRO (ML),QUE SE USA PARA MEDIR">LITRO</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+              <fondo>DMNDFDERTERERTIHYASDFXMNBABSDIGCVBMIPASX</fondo>
+        </paxina>
+        <paxina id="12" >
+              <tipo>38</tipo>
+              <imaxe>maxresdefault.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#0000A0" face="Comic" size="28"><b>SUBMÚLTIPLOS DEL LITRO</b><br>
+<br>
+</font></p>
+<p align="left">
+<font color="#0000FF" face="Comic" size="24"><b>Las unidades más pequeñas que el litro se llaman SUBMÚLTIPLOS y son: decilitro (dl), centilitro (cl) y mililitro (ml): 1 l = 10 dl | 1 l= 100 cl | 1 l = 1000 ml.</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <cabeceira>Observa el siguiente video y realiza las actividades siguientes.</cabeceira>
+              <imaxe posx="0" posy="0">x2mate.com-El_litro,_mililitro...____Unidades_de_capacidad(360p).mp4</imaxe>
+        </paxina>
+        <paxina id="14" >
+              <tipo>3</tipo>
+              <cabeceira>Arma el Siguiente Rompecabezas.</cabeceira>
+              <imaxe>LITRO_RONPE_22222.jpg</imaxe>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="15" >
+              <tipo>47</tipo>
+              <cabeceira>Unir las unidades según corresponda con su símbolo.</cabeceira>
+              <caixa1>Decilitro,Centilitro,Mililitro,Litro</caixa1>
+              <nome caixa="1">dl</nome>
+              <nome caixa="2">cl</nome>
+              <nome caixa="3">ml</nome>
+              <nome caixa="4">L</nome>
+        </paxina>
+        <paxina id="16" >
+              <tipo>18</tipo>
+              <cabeceira>Completa las palabras.</cabeceira>
+              <modo>3</modo>
+              <completa ant="Para pasar de decíiitro, centilitro y mililitro a litro" post=" por la unidad seguida de tantos ceros como lugares haya.">se divide</completa>
+              <completa ant="Los submúltiplos del litro son" post="centilitro y mililitro. ">decilitro</completa>
+              <completa ant="Las unidades más pequeñas que el litro" post="submúltiplos">se llaman</completa>
+              <completa ant="Unidad principal" post="Símbolo L.">litro</completa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>1</tipo>
+              <cabeceira>¡Cuánto aprendiste! Responda las siguientes preguntas relacionadas con los temas trabajados.</cabeceira>
+              <texto>¿Cuál es la unidad principal de las medidas de capacidad?</texto>
+              <resp texto="" valor="0">Metro</resp>
+              <resp texto="" valor="0">Kilo</resp>
+              <resp texto="" valor="0">Mililitro</resp>
+              <resp texto="" valor="1">Litro</resp>
+        </paxina>
+        <paxina id="18" >
+              <tipo>1</tipo>
+              <cabeceira>¡Cuánto aprendiste!</cabeceira>
+              <texto>¿Las medidas de capacidad sirven para medir?</texto>
+              <resp texto="" valor="0">Masa</resp>
+              <resp texto="" valor="0">Longitud</resp>
+              <resp texto="" valor="1">Líquidos</resp>
+              <resp texto="" valor="0">Metros  cuadrados</resp>
+        </paxina>
+        <paxina id="19" >
+              <tipo>1</tipo>
+              <cabeceira>¡Cuánto aprendiste!</cabeceira>
+              <texto>¿Qué es capacidad?</texto>
+              <resp texto="" valor="1">Volumen que ocupan los líquidos en un recipiente</resp>
+              <resp texto="" valor="0">Volumen del peso para llenar un vacío.</resp>
+              <resp texto="" valor="0">Cantidad de veces que se repite algo</resp>
+              <resp texto="" valor="0">Unidad principal de las medidas de capacidad.</resp>
+        </paxina>
+        <paxina id="20" >
+              <tipo>1</tipo>
+              <cabeceira>¡Cuánto aprendiste!</cabeceira>
+              <texto>1 Litro tiene:</texto>
+              <resp texto="" valor="0">1 mililitro</resp>
+              <resp texto="" valor="0">10 mililitros</resp>
+              <resp texto="" valor="0">100 mililitros</resp>
+              <resp texto="" valor="1">1000  mililitros</resp>
+        </paxina>
+        <paxina id="21" >
+              <tipo>2</tipo>
+              <imaxe posx="30" posy="-22">CARITA_FELIZ.png</imaxe>
+              <texto posx="305" posy="403" ancho="200" largo="200"><![CDATA[
+<p align="left">
+<font color="#0000A0" face="Comic Sans MS" size="32"><b>! Felicitaciones Querido Estudiante!</b><br>
+<b> Has terminado todas las actividades </b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>
