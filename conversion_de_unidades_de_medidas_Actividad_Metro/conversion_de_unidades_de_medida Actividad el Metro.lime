@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+          <recursos>$C:\Users\GOBERSANT\Documents\RECURSO EDUCATIVO EDILIM\conversion_de_unidades_de_medidas_Actividad_Metro\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>FFFFFF</corfondo>
+        <corbanda>FFFFFF</corbanda>
+        <cornavega>FF8000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <autor>HERMES BERNAL, RENE BERNAL, LEYCY JIMÉNEZ</autor>
+        <logo>\LOGO_UUUUU_21.jpg</logo>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="\" modo="1" >Muy Bien</correcto>
+        <incorrecto son="\" modo="1" >Sigue Intentando</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="10" posy="2">\PORTADA_FINAL_1.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="42" posy="29">\VIDEO_INICIO_free_(1).mp4</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>15</tipo>
+              <cfondo>008000</cfondo>
+              <ctexto>FFFF00</ctexto>
+              <menu boton="BIENVENIDA  "><![CDATA[
+<p align="left">
+<font color="#080000" face="Comic" size="24"><b>Hola queridos estudiantes</b><br>
+Queremos darle la bienvenida a este recurso educativo digital llamado EDILIM, en el encontrarás temáticas relacionadas con la conversión de las unidades de medida abordado desde una perspectiva más dinámica e interactiva., !Te invito a que lo explores! Bienvenidos</font><font color="#080000" face="Comic" size="14">.<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="UNIDADES DE MED     "><![CDATA[
+<p align="center">
+<font color="#0000A0" face="Comic" size="28"><b></b><br>
+</font><font color="#000000" face="Comic" size="28"><b>INTRODUCCIÓN</b><br>
+</font></p>
+<p align="left">
+<font color="#000000" face="Comic" size="28">En la historia de la humanidad no siempre se ha tenido una unidad exacta para comparar las cosas, en la antigüedad se utilizaban diferentes unidades relacionadas con algunas partes del cuerpo como el pie, el codo, la braza, el palmo y el paso, para medir longitudes. Unejemplo del uso de la medida en el deporte, es la distancia medida por un juez para validar la distancia alcanzada por la jabalina lanzada por un deportista.                                                                                 Desde hace ya muchos años las personas tenemos la necesidad de poder medir las diferentes características que tiene la materia.<br>
+Con el paso del tiempo hemos ido buscando unas unidades comunes para poder hacer comparaciones. A estas unidades las llamamos UNIDADES DE MEDIDA y las utilizamos para medir características de los objetos o de la materia, como la longitud, el peso, el volumen o el tiempo.<br>
+<b>Medir</b> es comparar una <b>magnitud</b> con otra que llamamos <b>unidad</b>.<br>
+La <b>medida</b> es el número de veces que la <b>magnitud</b> contiene a la unidad.<br>
+Las unidades de medida se utilizan para medir la magnitud de un objeto, sustancia o fenómeno. El sistema internacional de medidas se basa en el sistema métrico decimal, y gracias a él podemos medir la masa, la capacidad, longitud, volumen, temperatura, tiempo e intensidad. <br>
+                                                                                                                                               <b>¿Qué son las Unidades de Medida?</b><br>
+Se llama unidad de medida a una <b>referencia convencional que se usa para medir la magnitud física</b> de un determinado objeto, sustancia o fenómeno.<br>
+<b>Tipos de Unidades de medida</b><br>
+Los tipos de unidades de medida son los siguientes:<br>
+<b>Masa</b><br>
+<b>Longitud</b><br>
+<b>Capacidad</b><br>
+<b>Tiempo</b><br>
+<br>
+<b>Unidades de medida de longitud</b><br>
+La unidad principal para medir la longitud es el metro. Para medir masas mayores están los múltiplos (decámetro, hectómetro, kilómetro… ) y para medir masas menores están los submúltiplos(decímetro, centímetro, milímetro…).<br>
+La longitud determina la distancia que hay entre dos puntos, o dicho de otra manera, longitud es la cantidad de espacio que hay entre dos puntos. Por ejemplo, la distancia que hay entre mi casa y el colegio, o la distancia de un extremo de la mesa al otro.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="EL METRO  "><![CDATA[
+<p align="center">
+<font color="#FF0000" face="Comic" size="24"><b>EL METRO</b><br>
+</font></p>
+<p align="left">
+<font color="#080000" face="Comic" size="24"><b>Estándar:</b><br>
+Identificación del metro como unidad patrón de medidas de longitud, así como sus unidades derivadas múltiplos y submúltiplos.<br>
+<b>Objetivo:</b> <br>
+·	Reconocer los principales múltiplos del metro.<br>
+·	Utilizar las unidades de medida, decámetro, hectómetro y kilometro como unidades derivadas de metro.<br>
+<b>Síntesis conceptual </b><br>
+El  metro es la unidad fundamental de longitud. El metro en forma abreviada se escribe m ("m" minúscula).  <br>
+¿Sabes para qué utilizamos el metro? <br>
+El metro es empleado para medir el largo, ancho, y la altura de las cosas, es decir el metro se utiliza para conocer longitudes.<br>
+<b>Ertencen a esta familia</b><br>
+</font><font color="#080000" face="Comic" size="16">-</font><font color="#080000" face="Comic" size="24"> El centímetro (cm) y milímetro  (mm), que se usa para medir cosas muy chicas.<br>
+- El kilómetro (km) y el hectómetro (hm), que se usa para medir cosas muy grandes.<br>
+</font><font color="#000000" face="Comic" size="24"><b>Ejemplos  de uso</b><br>
+</font><font color="#080000" face="Comic" size="24">- Para medir tu altura y saber así cuánto has crecido (metros y centímetros). <br>
+- Para saber cuál es la distancia entre tu casa y tu colegio (kilómetros).<br>
+- Para descubrir que tan largo es un puente (metros).<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="MÚLTIPLOS DEL METRO "><![CDATA[
+<p align="left">
+<font color="#FF0000" face="Comic" size="28"><b>MÚLTIPLOS DEL METRO </b><br>
+<br>
+</font><font color="#080000" face="Comic" size="28"><b>Los múltiplos</b><br>
+Son las unidades de medida más grandes que el metro. Se utilizan para medir objetos, u otros, más grandes que el metro.<br>
+Los múltiplos más comunes en la vida cotidiana que se utilizan para medir longitudes mayores al metro, son el decámetro, el hectómetro y el kilómetro.<br>
+<br>
+El decámetro se abrevia dam, y equivale a 10 metros.<br>
+El hectómetro se abrevia hm, equivale a 100 metros.<br>
+Y el kilómetro se abrevia km, equivale a 1000 metros.<br>
+Para obtener la equivalencia entre un múltiplo del metro, en ese caso, los decámetros, y un submúltiplo, que son los centímetros, multiplica 6 por 10 para obtener su equivalente en metros. El producto se multiplica por 10 para obtener su equivalente en decímetros, el producto se multiplica por 10 para obtener su equivalente en centímetros. <br>
+<br>
+Asimismo, sabes que 10 x 10 x 10 es igual a 1 000; de esta manera puedes multiplicar 6 x 1 000 = 6 000, y obtienes el mismo valor numérico.<br>
+<br>
+Al calcular la equivalencia de 6 decámetros en centímetros. Considera que estamos buscando la equivalencia entre una unidad mayor con una menor.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="LOS SUBMÚLTIPLOS  M"><![CDATA[
+<p align="left">
+<font color="#FF0000" face="Comic" size="28"><b>LOS SUBMÚLTIPLOS DEL METRO </b><br>
+<br>
+</font><font color="#000000" face="Comic" size="28"><b>Los submúltiplos</b><br>
+Son las unidades de medida más pequeñas que el metro. Se utilizan para medir objetos, u otros, más pequeños que el metro.<br>
+Los múltiplos del metro hacen referencia a unidades de medida mayores que el metro.<br>
+Generalmente se utilizan para medir objetos cuyas medidas son mayores que el metro a partir de los múltiplos de diez.<br>
+Los submúltiplos del metro hacen referencia a unidades de medida menores que el metro.<br>
+Generalmente se utilizan para medir objetos cuyas medidas son menores que el metro a partir de los submúltiplos de diez.<br>
+Es importante acotar que los múltiplos de diez son aquellos que se obtienen al multiplicar por diez las unidades de medida; los submúltiplos se obtienen al dividirlas por diez.<br>
+Con esta definición de los múltiplos y submúltiplos reflexiona acerca de su utilidad en la medición y de cómo su uso facilita el manejo de medidas y cálculos, ya que algunas veces es necesario medir longitudes muy grandes, y otras veces, muy pequeñas. En ambos casos, utilizar el metro como unidad de referencia puede dificultar su operatividad, manejo e interpretación.<br>
+</font><font color="#262626" face="Comic" size="28"><b>Los submúltiplos del metro son:</b><br>
+<b>Decímetro 	dm	0.1 m</b><br>
+<b>Centímetro 	cm	0.01 m</b><br>
+<b>Milímetro 	mm	0.001 m</b><br>
+<b>Explicaciones y ejemplos de submúltiplos del metro</b><br>
+<b>Para pasar de metro a decímetro, centímetro y milímetro, se multiplica por la unidad seguida de tantos ceros como lugares haya.</b><br>
+<b>0.5 m · 10 = 5 dm</b><br>
+<b>20 m · 100 = 2 000 cm</b><br>
+<b>3.5 m · 1 000 = 3 500 mm</b><br>
+<b>Para pasar de decímetro, centímetro y milímetro a metro, se divide por la unidad seguida de tantos ceros como lugares haya.</b><br>
+<b>15 dm: 10 = 1.5 m</b><br>
+<b>350 cm: 100 = 3.5 m</b><br>
+<b>5000 mm: 1 000 = 5 m</b><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="BIBLIOGRAFÍA "><![CDATA[
+<p align="left">
+<font color="#000000" face="Comic Sans MS" size="24">LIVEWORKSHEETS. (s.f.). La longitud y sus unidades. Recuperado el 13 de 05 de 2022, de https://es.liveworksheets.com/worksheets/es/Matem%C3%A1ticas/Unidades_de_longitud/La_longitud_y_sus_unidades_eb762808ft<br>
+<br>
+MATEMÁTICA NEE PRIMARIA. (s.f.). MATEMÁTICA NEE PRIMARIA. Recuperado el 13 de 05 de 2022, de http://contenidosdigitales.ulp.edu.ar/exe/matematica_NEE_primaria/index.html<br>
+<br>
+Aprende a Distancia. (12 de mayo de 2021). El metro | múltiplos y submúltiplos[video]. youtube. Obtenido de https://www.youtube.com/watch?v=dK35l67gSqU<br>
+<br>
+Lenny. (23 de nov de 2020). Medidas de longitud (metro y centímetro) para niños[video]. Youtube. Obtenido de https://www.youtube.com/watch?v=DZuPC2U6sCY<br>
+<br>
+Seño Ana. (20 de abril de 2020). Los submúltiplos del metro[video]. Youtube. Obtenido de https://www.youtube.com/watch?v=ZOkbtOMezCY<br>
+<br>
+</font></p>
+]]></menu>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>38</tipo>
+              <imaxe>\conversion_unid.jpg</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Comic Sans MS" size="24"><b>Cada unidad del S.I. es diez veces mayor que la unidad inmediata inferior y diez veces menor que la unidad inmediata superior. </b></font><font color="#000000" face="Comic" size="24"><b>	</b><br>
+<br>
+<br>
+<br>
+<b>	</b><br>
+<br>
+<br>
+<br>
+</font><font color="#004594" face="AvantGarde" size="12">                                                                                         <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="5" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Comic Sans MS" size="32"><b>Los múltiplos se nombran anteponiendo a la unidad correspondiente los prefijos:</b><br>
+<b>	–	deca	–	diez</b><br>
+<b>	–	hecto	–	cien</b><br>
+<b>	–	kilo	–	mil</b><br>
+<b>	–	miria	–	diez mil</b><br>
+<b>Los submúltiplos se nombran anteponiendo a la unidad correspondiente los prefijos de origen latino:</b><br>
+<b>	–	deci	–	décima parte</b><br>
+<b>	–	centi	–	centésima parte</b><br>
+<b>	–	mili	–	milésima parte</b><br>
+<b>¿Cómo pasamos de una unidad a otra?</b><br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Comic Sans MS" size="32"><b>Ahora, realizaremos las siguientes conversiones:</b><br>
+<br>
+<b>	•	Ejemplo 1: ¿Cuántos dm hay en 25 km? </b><br>
+<b>		25 km a dm ® 25 × 10 × 10 × 10 × 10.</b><br>
+<b>		25 × 10 000 = 250 000 dm </b><br>
+<br>
+<b>•	Ejemplo 2: ¿Cuántos metros hay en 47 hm?</b><br>
+<b>		47 hm = 47 × 10 × 10 = 47 × 100 = 4 700 m</b><br>
+<br>
+<b>	•	Ejemplo 3: ¿Cuántos dam hay en 372 cm?</b><br>
+<b>		De los dam a cm hay tres órdenes de unidades; por eso, se divide entre 1 000.</b><br>
+<b>		372 cm = 372 ¸ 10 ¸ 10 ¸ 10 = 372 ¸ 1 000</b><br>
+			 <b>     = 0,372 dam</b><br>
+<br>
+•<b>	Ejemplo 4: ¿Cuántos dm hay en 86 mm?</b><br>
+<b>		86 mm = 86 ¸ ___________ = ___________dm</b><br>
+<br>
+<b>	•	Ejemplo 5: ¿Cuántos mm hay en 932 578 Mm?</b><br>
+<b>		932 578 Mm = 932 578 × 10 × 10 × 10 × 10 × 10 × 10 × 10 = 9 325 780 000 000 mm</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <cabeceira>Veamos el video</cabeceira>
+              <imaxe posx="24" posy="10">\(metro_y_cent_imetro)_para_ninnos.mp4</imaxe>
+              <texto posx="21" posy="305" ancho="78" largo="43"><![CDATA[
+<p align="left">
+<font color="#080000" face="Comic" size="14"> </font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="8" >
+              <tipo>46</tipo>
+              <cabeceira>¡Aplica lo aprendido!   Relaciona el significado con su concepto según corresponda.</cabeceira>
+              <etiqueta texto="Saber el tamaño que tienen los objetos."  posy="3">Él metro es la unidad de medida convencional usada para medir</etiqueta>
+              <etiqueta texto="Kilómetro."  posy="1">medir es</etiqueta>
+              <etiqueta texto="longitudes"  posy="2">Mil metros forman un</etiqueta>
+              <etiqueta texto="centímetros"  posy="4">Si dividimos el metro en 100 partes tenemos los</etiqueta>
+              <etiqueta texto="Metro"  posy="6">El metro se representa con la letra</etiqueta>
+              <etiqueta texto="M"  posy="5">La unidad de medida básica que se utiliza para medir longitudes es el</etiqueta>
+        </paxina>
+        <paxina id="9" >
+              <tipo>46</tipo>
+              <cabeceira>Relaciona cada múltiplo con su símbolo y su conversión</cabeceira>
+              <etiqueta texto="hm"  posy="2">kilómetro</etiqueta>
+              <etiqueta texto="km"  posy="1">hectómetro</etiqueta>
+              <etiqueta texto="dam"  posy="3">decámetro</etiqueta>
+              <etiqueta texto="1 Hm (hectómetro)"  posy="6">1.000 metros (m) =</etiqueta>
+              <etiqueta texto=" 1 Dam (decámetro)"  posy="4">100 metros (m) =</etiqueta>
+              <etiqueta texto="1Km (kilómetro)"  posy="5">10 metros (m) =</etiqueta>
+        </paxina>
+        <paxina id="10" >
+              <tipo>4</tipo>
+              <cabeceira>Busca en la siguiente sopa de letras las siguientes palabras: UNIDAD, MEDIDA, METRO, DISTANCIA, CANTIDAD, MAGNITUD.</cabeceira>
+              <modo>1</modo>
+              <sopa enun="los múltiplos son las unidades de medida">UNIDAD</sopa>
+              <sopa enun="son el decámetro, el hectómetro y el kil">MEDIDA</sopa>
+              <sopa enun="son el decámetro, el hectómetro y el kil">METRO</sopa>
+              <sopa enun="los múltiplos son las unidades de medida">DISTANCIA</sopa>
+              <sopa enun="Número de unidades, tamaño o porción de ">CANTIDAD</sopa>
+              <sopa enun="Medida de algo conforme a una escala det">MAGNITUD</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+              <fondo>QWERTYUIOLKASDFGHJMNBVCXZASDJKFLOIUYTREW</fondo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <cabeceira>MÚLTIPLOS DEL METRO</cabeceira>
+              <imaxe posx="1" posy="7">\x2mate.com-El_metro___m_ultiplos_y_subm_ultiplos(360p).mp4</imaxe>
+        </paxina>
+        <paxina id="12" >
+              <tipo>3</tipo>
+              <cabeceira>Arma el suguiente Rompecabezas.</cabeceira>
+              <imaxe>\Imagen_2png.png</imaxe>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>20</tipo>
+              <cabeceira>Elige que unidad de medida corresponde para cada escalón y arrastra la etiqueta que correspondiente.</cabeceira>
+              <imaxe>\multi_28.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="44" posy="24">Km</etiqueta>
+              <etiqueta posx="130" posy="77">Hm</etiqueta>
+              <etiqueta posx="191" posy="135">dam</etiqueta>
+              <etiqueta posx="274" posy="186">M</etiqueta>
+              <etiqueta posx="353" posy="244">Dm</etiqueta>
+              <etiqueta posx="412" posy="301">Cm</etiqueta>
+        </paxina>
+        <paxina id="14" >
+              <tipo>4</tipo>
+              <cabeceira>1.	Busca en la siguiente sopa de letras las siguientes palabras. KILÓMETRO, HECTÓMETRO, DECÁMETRO, LONGITUD.</cabeceira>
+              <modo>1</modo>
+              <sopa enun="Aun así, en el campo de la medición de s">KILÓMETRO</sopa>
+              <sopa enun="El hectómetro es un unidad de longitud ">HECTÓMETRO</sopa>
+              <sopa enun="Aun así, en el campo de la medición de s">DECÁMETRO</sopa>
+              <sopa enun="Aun así, en el campo de la medición de s">LONGITUD</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+              <fondo>QWERTYUIOPLKJHGFDSAZXCVBNMLJHGFFDSAAQWER</fondo>
+        </paxina>
+        <paxina id="15" >
+              <tipo>2</tipo>
+              <cabeceira>LOS SUBMÚLTIPLOS DEL METRO</cabeceira>
+              <imaxe posx="15" posy="27">\x2mate.com-Los_subm_ultiplos_del_metro(360p).mp4</imaxe>
+        </paxina>
+        <paxina id="16" >
+              <tipo>20</tipo>
+              <cabeceira>Observa la regla y escribe cuántos centímetros mide cada objeto.</cabeceira>
+              <imaxe>\medir_en_centimetros_33.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="312" posy="23">3</etiqueta>
+              <etiqueta posx="315" posy="99">5</etiqueta>
+              <etiqueta posx="317" posy="183">8</etiqueta>
+              <etiqueta posx="316" posy="279">11</etiqueta>
+              <etiqueta posx="321" posy="353">16</etiqueta>
+        </paxina>
+        <paxina id="17" >
+              <tipo>20</tipo>
+              <cabeceira>A practicar...                                                                                        Completa los datos de la imagen</cabeceira>
+              <imaxe>\imagen_1000.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="244" posy="55">mm</etiqueta>
+              <etiqueta posx="395" posy="79">cm</etiqueta>
+        </paxina>
+        <paxina id="18" >
+              <tipo>20</tipo>
+              <cabeceira>Arrastra la etiqueta para completar las diferentes conversiones.</cabeceira>
+              <imaxe>\Image_ppppp.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="201" posy="57">100</etiqueta>
+              <etiqueta posx="201" posy="115">200</etiqueta>
+              <etiqueta posx="208" posy="170">300</etiqueta>
+              <etiqueta posx="212" posy="225">30</etiqueta>
+              <etiqueta posx="210" posy="280">20</etiqueta>
+              <etiqueta posx="211" posy="335">10</etiqueta>
+        </paxina>
+        <paxina id="19" >
+              <tipo>20</tipo>
+              <cabeceira>¡Cuánto aprendiste!  Completa tabala colocando la abreviatura correspondiente.</cabeceira>
+              <imaxe>\Abreviatura.jpg</imaxe>
+              <modo>9</modo>
+              <etiqueta posx="132" posy="140">Hm</etiqueta>
+              <etiqueta posx="252" posy="145">Dam</etiqueta>
+              <etiqueta posx="514" posy="144">dm</etiqueta>
+              <etiqueta posx="675" posy="152">cm</etiqueta>
+        </paxina>
+        <paxina id="20" >
+              <tipo>1</tipo>
+              <texto>Realiza las siguientes conversiones  y Selecciona la respuesta.  3,2 m =________ mm</texto>
+              <resp texto="" valor="0">32 mm</resp>
+              <resp texto="" valor="0">320 mm</resp>
+              <resp texto="" valor="1">3200 mm</resp>
+              <resp texto="" valor="0">32000 mm</resp>
+        </paxina>
+        <paxina id="21" >
+              <tipo>1</tipo>
+              <texto>Realiza las siguientes conversiones y Selecciona la respuesta.                                                           45 dm =__________hm</texto>
+              <resp texto="" valor="0">0,45 hm</resp>
+              <resp texto="" valor="1">0,045 hm</resp>
+              <resp texto="" valor="0">0,0045 hm</resp>
+              <resp texto="" valor="0">0,00045 hm</resp>
+        </paxina>
+        <paxina id="22" >
+              <tipo>1</tipo>
+              <texto>Realiza las siguientes conversiones y Selecciona la respuesta.       
+                  0,5 dm =________ km</texto>
+              <resp texto="" valor="0">0,05 km</resp>
+              <resp texto="" valor="0">0,005 km</resp>
+              <resp texto="" valor="0">0,0005 km</resp>
+              <resp texto="" valor="1">0,00005 km</resp>
+        </paxina>
+        <paxina id="23" >
+              <tipo>1</tipo>
+              <texto>Realiza las siguientes conversiones y Selecciona la respuesta. 
+            8 km = _________ m</texto>
+              <resp texto="" valor="1">8000m</resp>
+              <resp texto="" valor="0">800m</resp>
+              <resp texto="" valor="0">80m</resp>
+              <resp texto="" valor="0">0,008m</resp>
+        </paxina>
+        <paxina id="24" >
+              <tipo>1</tipo>
+              <texto>Realiza las siguientes conversiones y Selecciona la respuesta. 
+      24 hm =_______ cm</texto>
+              <resp texto="" valor="0">2400 cm</resp>
+              <resp texto="" valor="0">24000 cm</resp>
+              <resp texto="" valor="1">240000 cm</resp>
+              <resp texto="" valor="0">2400000 cm</resp>
+        </paxina>
+        <paxina id="25" >
+              <tipo>1</tipo>
+              <texto>Realiza las siguientes conversiones y Selecciona la respuesta.
+          55 m =_____km</texto>
+              <resp texto="" valor="0">5,5 km</resp>
+              <resp texto="" valor="0">0,55 km</resp>
+              <resp texto="" valor="1">0,055 km</resp>
+              <resp texto="" valor="0">0,0055 km</resp>
+        </paxina>
+        <paxina id="26" >
+              <tipo>2</tipo>
+              <imaxe posx="30" posy="-22">\CARITA_FELIZ.png</imaxe>
+              <texto posx="305" posy="403" ancho="200" largo="200"><![CDATA[
+<p align="left">
+<font color="#0000A0" face="Comic Sans MS" size="32"><b>! Felicitaciones Querido Estudiante!</b><br>
+<b> Has terminado todas las actividades </b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>
