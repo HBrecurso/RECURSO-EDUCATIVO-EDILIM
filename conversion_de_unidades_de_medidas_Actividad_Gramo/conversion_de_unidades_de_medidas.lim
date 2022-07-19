@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <autor>HERMES, RENE Y LEYCY</autor>
+        <logo>LOGO_UUUUU_21.jpg</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>portada_3.jpg</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">VIDEO_INICIO_free_(1).mp4</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>15</tipo>
+              <cfondo>008000</cfondo>
+              <ctexto>FFFF00</ctexto>
+              <menu boton="EL GRAMO"><![CDATA[
+<p align="left">
+<font color="#0000A0" face="Comic" size="28"><b>El gramo es una unidad de masa que forma parte del Sistema Internacional de Unidades. De símbolo g, el gramo equivale a una milésima parte de un kilogramo. Por otra parte, el gramo es una unidad de peso del Sistema Métrico Decimal que resulta equivalente a la fuerza que se ejerce sobre una masa de un gramo por efecto de la gravedad.</b><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="MÚLTIPLOS DEL GRAMO"><![CDATA[
+<p align="left">
+<font color="#0000A0" face="Comic Sans MS" size="24"><b>Cuando se habla de los múltiplos de una unidad de medida se está hablando de multiplicar dicha unidad por 10, por 100 y por 1.000. Cada uno de estos múltiplos agrega un prefijo a la unidad de medida.</b><br>
+<br>
+<b>El prefijo que se debe añadir a la unidad de medida cuando ésta se multiplica por 10 es deca y la notación es “da”. </b><br>
+<br>
+<b>Cuando se multiplica por 100 se agrega el prefijo hecto, cuya notación es “h”. Y cuando se multiplica por 1.000 el prefijo es kilo y su notación es “k”.</b><br>
+<br>
+<b>Por ejemplo, si la unidad de medida es el gramo, entonces sus múltiplos son:</b><br>
+<br>
+<b>– 10 g. (10 gramos) es equivalente a 1 dag. (1 decagramo).</b><br>
+<br>
+<b>– 100 g. (100 gramos) es equivalente a 1 hg. (1 hectogramo).</b><br>
+<br>
+<b>– 1000 g. (1000 gramos) es equivalente a 1 kg. (1 kilogramo).</b><br>
+<br>
+<b>Otro múltiplo del gramo que es muy utilizado es la tonelada, el cual es equivalente a multiplicar por 1.000.000, y se denota por la letra “t” o “T” (incluso se puede denotar por “Tn”). Es decir, 1.000.000 g. es equivalente a 1 Tn.</b><br>
+<br>
+<b>Además de los múltiplos arriba escritos, existen dos múltiplos más que no se usan regularmente: el miriagramo (10.000 gramos) y el quintal (100.000 gramos).</b><br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="SUBMÚLTIPLOS DEL G"><![CDATA[
+<p align="left">
+<font color="#0000A0" face="Comic Sans MS" size="24"><b>Al igual que lo mencionado en los múltiplos del gramo, cuando se trata de submúltiplos lo que se hace es dividir la unidad de medida entre 10, 100 y 1.000, y cada una de estas divisiones agrega también un prefijo a la unidad de medida.</b><br>
+<br>
+<b>Los prefijos cuando se divide entre 10, 100 y 1.000 son deci, centi y mili, respectivamente. Además, las notaciones utilizadas para los submúltiplos son “d”, “c”, y “m”, respectivamente.</b><br>
+<br>
+<b>Así por ejemplo, si la unidad de medida es el gramo, entonces sus submúltiplos son:</b><br>
+<br>
+<b>– 0,1 g. es equivalente a 1 dg. (1 decigramo).</b><br>
+<br>
+<b>– 0,01 g. es equivalente a 1 cg. (1 centigramo).</b><br>
+<br>
+<b>– 0,001 g. es equivalente a 1 mg. (1 miligramo).</b><br>
+<br>
+<b>Todas las notaciones y los prefijos utilizados para múltiplos y submúltiplos arriba descritos se pueden aplicar a diferentes unidades de medida.</b><br>
+<br>
+<b>Es decir, si se quiere medir una distancia y se utilizan los metros como unidad de medida, entonces un múltiplo puede ser 1 kilómetro (1 km.), que es equivalente a 1.000 metros (1.000 m.); y un submúltiplo puede ser 1 centímetro (1 cm.) que es equivalente a 0,01 metros (0,01 m.).</b></font></p>
+]]></menu>
+              <menu boton="BIBLIOGRAFÍA "><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Calibri" size="24"><b>David Bessó. (20 de octubre de 2017). Múltiplos y submúltiplos del gramo. Obtenido de https://media.up.ltmcdn.com/es/ejercicios/2/1/3/ejercicio_multiplos_y_submultiplos_del_gramo_312.pdf</b><br>
+<b>INNOVEDUCA.COM. (2013). Unidades de medida. Obtenido de http://www.innoveduca.com/files/propis/mates_unidadmedida/info_cmo_medir_capacidades.html</b><br>
+<b>Nte.mx. (27 de Mayo de 2020). El litro, sus múltiplos y submúltiplos – Matemáticas. Obtenido de https://nte.mx/el-litro-sus-multiplos-y-submultiplos-matematicas-segundo-de-secundaria/</b><br>
+<b>Smartick. (02 de Marzo de 2015). Problemas de conversión: masa. Obtenido de https://www.smartick.es/blog/matematicas/medidas-y-datos/problemas-de-conversion-masa/</b><br>
+<b>García, F. J., &amp; Martín, R. (2015). Matemáticas 1º ESO (LOMCE) – Trimestralizado. Editex.</b><br>
+<b>Mann, H., &amp; Chase, P. E. (1895). Grammar-school Arithmetic. Philadelphia: E.H. Butler &amp; Co.</b><br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>38</tipo>
+              <imaxe>Multiplos-y-Submultiplos-del-Kilogramo-3.png</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#0000FF" face="Comic" size="24"><b>GRAMO</b><br>
+</font></p>
+<p align="left">
+<font color="#0000FF" face="Comic" size="24"><b>El gramo es la unidad principal de medida de masa, la cual se denota por </b></font><font color="#0000FF" face="Comic" size="28"><b>g</b></font><font color="#0000FF" face="Comic" size="24"><b>., y es utilizada para medir el peso de los objetos.</b><br>
+</font><font color="#0000FF" face="Comic" size="28"><b>Múltiplos y Submúltiplos del Gramo.</b><br>
+</font><font color="#0000FF" face="Comic" size="24"><b>La ventaja de utilizar múltiplos y submúltiplos del gramo es que permiten escribir cantidades muy grandes o muy pequeñas de una manera más corta y fácil de comprender.</b><br>
+<br>
+<b>Si se quiere conocer sobre los múltiplos y submúltiplos del gramo es necesario comprender las palabras “múltiplo”, “submúltiplo” y “gramo”.</b><br>
+<br>
+<b>La clave con estas tres palabras radica en entender para qué se utiliza cada una. Esto es importante porque, al comprender sus usos, podremos aplicarlos a otras unidades de medida.</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="5" >
+              <tipo>38</tipo>
+              <imaxe>multiplos_G.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#0000FF" face="Comic Sans MS" size="24"><b>MÚLTIPLOS DEL GRAMO</b><br>
+<br>
+</font></p>
+<p align="left">
+<font color="#0000FF" face="Comic Sans MS" size="24"><b>Los múltiplos del gramo son:</b><br>
+<b>kilogramo kg 1000 g</b><br>
+<b>hectogramo hg 100 g</b><br>
+<b>decagramo dag 10 g</b><br>
+<br>
+<b>Para pasar de kilogramo, hectogramo y decogramo a gramo, se multiplica por la unidad seguida de tantos ceros como lugares haya.</b><br>
+<b>3 kg · 1 000 = 3 000 g</b><br>
+<b>1.2 hg · 100 = 120 g</b><br>
+<b>0.5 dl · 10 = 5 g</b><br>
+<br>
+<b>Para pasar de gramo a kilogramo, hectogramo y decogramo, se divide por la unidad seguida de tantos ceros como lugares haya.</b><br>
+<b>12 000 g : 1 000 = 12 kg</b><br>
+<b>85 g : 1 00 = 0.85 hg</b><br>
+<b>35.2 g : 1 0 = 3.52 dag</b><br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <cabeceira>Observa el siguiente video y realiza las actividades siguientes.</cabeceira>
+              <imaxe posx="0" posy="0">x2mate.com-Medidas_de_peso__Conversiones_de_m_ultiplos_y_subm_ultiplos_del_gramo-(1080p)_(1).mp4</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>3</tipo>
+              <cabeceira>Arma el Siguiente Rompecabezas.</cabeceira>
+              <imaxe>ROMPECABEZA_GRAMO.jpg</imaxe>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>46</tipo>
+              <cabeceira>A practicar... Relaciona el significado con su concepto según corresponda.</cabeceira>
+              <etiqueta texto="kilogramo, hectogramo y decogramo."  posy="1">Los múltiplos del gramo son:</etiqueta>
+              <etiqueta texto="la unidad seguida de tantos ceros como lugares haya."  posy="2">Para pasar de kilogramo, hectogramo y decogramo a gramo, se multiplica por</etiqueta>
+              <etiqueta texto="divide por la unidad seguida de tantos ceros como lugares haya"  posy="3">Para pasar de gramo a kilogramo, hectogramo y decogramo, se</etiqueta>
+              <etiqueta texto="1 kilogramo"  posy="4">1000 gramos es igual a</etiqueta>
+              <etiqueta texto="g"  posy="5">El gramo se representa por el símbolo</etiqueta>
+        </paxina>
+        <paxina id="9" >
+              <tipo>30</tipo>
+              <cabeceira>Coloca su equivalencia en g.</cabeceira>
+              <imaxe posx="0" posy="0">Imagen_KKKKKKK.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="268" posy="179">1000g</etiqueta>
+              <etiqueta posx="359" posy="48">2000g</etiqueta>
+              <etiqueta posx="17" posy="178">3000g</etiqueta>
+              <etiqueta posx="16" posy="52">4000g</etiqueta>
+              <etiqueta posx="7" posy="309">15 k</etiqueta>
+        </paxina>
+        <paxina id="10" >
+              <tipo>4</tipo>
+              <cabeceira>Buscar en la sopa de letras las siguientes palabras: KILOGRAMO, HECTOGRAMO, DECOGRAMO, GRAMO, PESO, MÚLTIPLOS.</cabeceira>
+              <modo>1</modo>
+              <sopa enun="">KILOGRAMO</sopa>
+              <sopa enun="">HECTOGRAMO</sopa>
+              <sopa enun="">DECOGRAMO</sopa>
+              <sopa enun="">GRAMO</sopa>
+              <sopa enun="">PESO</sopa>
+              <sopa enun="">MÚLTIPLOS</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+              <fondo>QWERTYUIOPLKMJNBHGVFCDRESXZAQWEDCNDPAOEI</fondo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>38</tipo>
+              <imaxe>SUBMULTIPLOS_G.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Comic" size="24"><b>SUBMÚLTIPLOS DEL GRAMO</b><br>
+<br>
+<b>Los submúltiplos del gramo son unidades menores al gramo.</b><br>
+<b>Los submultiplos son:</b><br>
+<b>Decigramo = dg</b><br>
+<b>Centigramo = cg</b><br>
+<b>Miligramo = mg</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <cabeceira>Observa el siguiente video y realiza las actividades siguientes.</cabeceira>
+              <imaxe posx="0" posy="0">x2mate.com-La_Eduteca_-_Magnitudes__las_unidades_de_masa-(480p).mp4</imaxe>
+        </paxina>
+        <paxina id="13" >
+              <tipo>3</tipo>
+              <cabeceira>Arma el Siguiente Rompecabezas.</cabeceira>
+              <imaxe>Unidad_de_masa.jpg</imaxe>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>4</tipo>
+              <cabeceira>Busca en la sopa de letras las siguientes palabras: GRAMO, MASA, SUBMÚLTIPLOS, DECIGRAMO, CENTIGRAMO, MILIGRAMO.</cabeceira>
+              <modo>1</modo>
+              <sopa enun="">GRAMO</sopa>
+              <sopa enun="">MASA</sopa>
+              <sopa enun="">SUBMÚLTIPLO</sopa>
+              <sopa enun="">DECIGRAMO</sopa>
+              <sopa enun="">CENTIGRAMO</sopa>
+              <sopa enun="">MILIGRAMO</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+              <fondo>QWERTYUIOPLAKSJDHFGCBNXMZNAWQERTYUIOPLOK</fondo>
+        </paxina>
+        <paxina id="15" >
+              <tipo>30</tipo>
+              <cabeceira>A practicar... Ordena los objetos del 1 al 5 del menos pesado al más pesado.</cabeceira>
+              <imaxe posx="0" posy="0">objeeee.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="180" posy="166">1</etiqueta>
+              <etiqueta posx="87" posy="360">2</etiqueta>
+              <etiqueta posx="44" posy="169">3</etiqueta>
+              <etiqueta posx="291" posy="360">4</etiqueta>
+              <etiqueta posx="323" posy="170">5</etiqueta>
+        </paxina>
+        <paxina id="16" >
+              <tipo>18</tipo>
+              <cabeceira>¡Cuánto aprendiste! Completa las palabras.</cabeceira>
+              <modo>3</modo>
+              <completa ant="Los submúltiplos del gramo son unidades" post="al gramo.">menores</completa>
+              <completa ant="Para pasar de una unidad MAYOR a  " post="se MULTIPLICA.">otra MENOR</completa>
+              <completa ant="Para pasar de una unidad MENOR a " post="se DIVIDE.">otra MAYOR</completa>
+              <completa ant="Los submúltiplos del gramo son el Decigramo, " post="Miligramo.">Centigramo y</completa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>1</tipo>
+              <cabeceira>¡Cuánto aprendiste! Responda las siguientes preguntas seleccionando la correcta.</cabeceira>
+              <texto>¿Cuántos gramos hay en 8 kg?</texto>
+              <resp texto="" valor="0">8g</resp>
+              <resp texto="" valor="1">8 000 gramos</resp>
+              <resp texto="" valor="0">80g</resp>
+              <resp texto="" valor="0">20g</resp>
+        </paxina>
+        <paxina id="18" >
+              <tipo>1</tipo>
+              <cabeceira>¡Cuánto aprendiste! Responda las siguientes preguntas seleccionando la correcta.</cabeceira>
+              <texto>El gramo se representa con la letra...</texto>
+              <resp texto="" valor="1">g</resp>
+              <resp texto="" valor="0">kg</resp>
+              <resp texto="" valor="0">mg</resp>
+              <resp texto="" valor="0">c</resp>
+        </paxina>
+        <paxina id="19" >
+              <tipo>1</tipo>
+              <cabeceira>¡Cuánto aprendiste! Responda las siguientes preguntas seleccionando la correcta.</cabeceira>
+              <texto>Para medir la masa de una manzana, utilizaríamos el...</texto>
+              <resp texto="" valor="0">Kilogramo</resp>
+              <resp texto="" valor="1">Gramo</resp>
+              <resp texto="" valor="0">Metro</resp>
+              <resp texto="" valor="0">Milímetro</resp>
+        </paxina>
+        <paxina id="20" >
+              <tipo>2</tipo>
+              <imaxe posx="4" posy="-24">CARITA_FELIZ.png</imaxe>
+              <texto posx="0" posy="53" ancho="200" largo="200"><![CDATA[
+<p align="left">
+<font color="#0000A0" face="Comic" size="24"><b>! Felicitaciones Querido Estudiante!</b><br>
+<b>Has terminado las actividades</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>
